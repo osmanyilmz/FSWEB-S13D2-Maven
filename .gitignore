@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+target/classes/org/example/Main.class
+target/test-classes/MainTest.class
+target/test-classes/ResultAnalyzer$TestResultStatus.class
+target/test-classes/ResultAnalyzer.class
+src/test/java/ResultAnalyzer.java
+src/test/java/ResultAnalyzer.java
